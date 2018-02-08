@@ -1,10 +1,16 @@
 ---
-title: "Testing Github"
+title: "Testing GitHub: my example report"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+```
+
+##GitHub documents
+
+```{r}
+plot(1:10, typ="o", col="blue")
 ```
 
 ## R Markdown
