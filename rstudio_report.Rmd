@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##GitHub documents
 
 ```{r}
-plot(1:10, typ="o", col="blue")
+plot(1:20, typ="o", col="blue")
 ```
 
 ## R Markdown
